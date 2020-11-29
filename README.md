@@ -87,11 +87,11 @@ public class Poem {
 ```
 4.在poetry类中主要作用是输入是的内容，利用同样是scanner方法，并且利用 char myChar = scanner.nextLine().charAt(0);该行代码对本首诗进行计数。
 ## 核心方法  
-1.scanner输入方法（注意int tuition = scanner.nextInt();输入条件的判定）
-2.io写入输出（import java.io.*;   import java.nio.charset.StandardCharsets;  import java.util.Scanner;）
+1.scanner输入方法（注意int tuition = scanner.nextInt();输入条件的判定）  
+2.io写入输出（import java.io.*;   import java.nio.charset.StandardCharsets;  import java.util.Scanner;）  
 
-3.异常报错try{} catch{}
-4.
+3.异常报错try{} catch{}  
+4.for循环语句，以及相关字符串使用（“\n”）等知识点  
 ##实验结果
 !(https://github.com/zhoumingxu66/Lab_4/blob/main/picture/bfefda83ccee0b65122eec70388d7b5.png)  
 ## 试验心得  
