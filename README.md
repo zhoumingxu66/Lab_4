@@ -37,7 +37,7 @@
 
 ## 试验过程
 1.将本次试验分三个包进行试验处理  
-！（https://github.com/zhoumingxu66/Lab_4/blob/main/picture/%E8%AF%95%E9%AA%8C%E7%BB%93%E6%9E%84.png）  
+！（https://github.com/zhoumingxu66/Lab_4/blob/main/picture/bfefda83ccee0b65122eec70388d7b5.png）  
 2.Main类中创建一个学生类，在学生类中定义学生的姓名、性别、年龄。并且在Main类中利用scanner方法输入  
 调用Poetry包里的poetry方法，统计字符个数并打印出来  
 利用io处理将文件创建
