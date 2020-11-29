@@ -93,7 +93,7 @@ public class Poem {
 3.异常报错try{} catch{}
 4.
 ##实验结果
-!()  
+!(https://github.com/zhoumingxu66/Lab_4/blob/main/picture/bfefda83ccee0b65122eec70388d7b5.png)  
 ## 试验心得  
 本次试验学到了java IO的写入和输出。相比较于其他内容，个人感觉层次上更高级一些，难度也相对大了。这次试验还要考虑java jdk的版本，否则负责写入的代码会出现错误或者写入之后的文本为乱码  
 这次试验我用的jdk版本为11。
